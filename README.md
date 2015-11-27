@@ -1,3 +1,4 @@
 # yii2-simple-text-editor
 
-# author Aleksandr Cerkasov | coldworld333@gmail.com
+# authors
+- Aleksandr Cerkasov | coldworld333@gmail.com
